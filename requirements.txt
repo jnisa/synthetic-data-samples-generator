@@ -1,0 +1,7 @@
+fastavro==1.6.1
+geopandas==1.0.1
+numpy==1.24.1
+randomname==0.2.1
+rdflib==7.0.0
+setuptools==68.2.2
+Shapely==2.0.6

@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "synthetic-data-samples-generator"
+version = "0.0.1"
+description = "Generates synthetic data samples on the fly for test cases."
+authors = ["Joao Nisa <joao.je.nisa@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
